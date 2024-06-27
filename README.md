@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Tirth</h1>
 <h3 align="center">Teamwork | Problem Solving | Communication | Presentation Skills</h3>
+<h3 align="center">🔍 Exploring new horizons of Cyber Security
+🌟 CIF 2019 & 2022 Finalist @GUSEC
+🔥 2* Felicitation by Chief Minister @2017 & 2019</h3>
 
 # PRODIGY_DS_01
 # Introduction:
