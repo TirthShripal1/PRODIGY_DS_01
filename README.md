@@ -18,9 +18,7 @@ Create a bar chart or histogram to visualize the distribution of a categorical o
 2) Choosing Visualization
 3) Data Preparation
 4) Creating Visualization
-5) Interpreting  Results
-# Dataset:
-
+5) Interpreting  Result
 # Conclusion:
 In conclusion, by effectively choosing and creating appropriate visualizations like bar charts or histograms, we can gain valuable insights into the distribution patterns of categorical variables such as genders or continuous variables such as ages. These insights not only enhance understanding but also facilitate informed decision-making based on data-driven insights.
 # Connect with me:
